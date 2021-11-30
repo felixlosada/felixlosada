@@ -10,8 +10,11 @@
 -->
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=felixlosada&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felixlosada&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
--->
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=felixlosada&show_icons=true&theme=tokyonight&count_private=true" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=felix360&layout=compact&theme=tokyonight" />
+</a>
