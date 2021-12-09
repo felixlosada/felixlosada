@@ -6,5 +6,4 @@
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=felixlosada&show_icons=true&locale=es&theme=discord_old_blurple" alt="felixlosada" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=felixlosada&theme=discord_old_blurple" alt="felixlosada" /></p>
 
