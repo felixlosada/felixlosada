@@ -1,17 +1,9 @@
-<!--
-**felixlosada/felixlosada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+<p align="center">
+<img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felixlosada&layout=compact&hide_border=true&langs_count=999&theme=dark">
+ <br/>
+<img alt="WakaTime" src="https://github-readme-stats.vercel.app/api/wakatime?username=felix360&layout=compact&custom_title=My%20Week&hide_border=true&theme=dark"/>
+ <br/><br/>
+ <!-- <img alt="Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=WilliamVenner"/> -->
+</p>
 
-<h1><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" /> Hi <𝚍𝚎𝚟𝚜/>, I'm Felix </h1>
-
-<!--
-<p>🔭 I’m currently working on my Website!</p>
-<p>🌱 I’m a Computer Science student</p>
--->
-
-
-
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=felixlosada&show_icons=true&theme=tokyonight&count_private=true" />
-</a>
+<!-- taken from @ -->
