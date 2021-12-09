@@ -6,4 +6,4 @@
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=felixlosada&show_icons=true&locale=en&theme=tokyonight" alt="felixlosada" /> </p>
 
-<p align="center">&nbsp;<img align="center" src"https://github-readme-stats.vercel.app/api/top-langs/?username=felixlosada&layout=compact&theme=tokyonight" alt="langs" /> </p>
+<p align="center">&nbsp;<img align="center" src"https://github-readme-stats.vercel.app/api/top-langs/?username=felixlosada&theme=tokyonight" alt="toplangs" /> </p>
