@@ -1,9 +1,24 @@
-<img src="/header.png"/>
-<h1 align="center">Hi 👋, I'm Felix</h1>
-<h2 align="center">A student and developer from Spain</h2>
 
-<h3 align="center">Currently learning Java</h3>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=felixlosada&show_icons=true&locale=es&theme=tokyonight" alt="felixlosada" /></p>
-<img src="/footer.png"/>
+### **<div align="center"><h1>I'm Felix, a full-time CS student 👨‍💻 studying in Spain since around 2018 🚀</h1></div>**  
+  
+<div align="center">
+<h3>
+🔭 I’m currently working on a open source Password Manager  
+  
+🌱 I’m currently learning Java and System Administration  
+</h3
+</div>
+ 
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=felixlosada&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" align="center" style="width: 100%" /></div>  
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felixlosada&hide_border=true&layout=compact&theme=tokyonight" align="left" style="width: 100%" />  
+  
+<div align="center">
+<a href="https://github.com/felixlosada" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://stackoverflow.com/users/16898383" target="_blank">
+<img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
+</a> 
+</div>  
