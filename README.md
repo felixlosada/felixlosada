@@ -1,5 +1,5 @@
 
-### **<div align="center"><h1>I'm Felix, a CS student 👨‍💻 studying in Spain since around 2018 🚀</h1></div>**  
+### **<div align="center"><h1>I'm Felix, a student in Spain doing CS 👨‍💻 since around 2018 🚀 </h1></div>**  
  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=felixlosada&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" align="center" style="width: 100%" /></div>  
 
