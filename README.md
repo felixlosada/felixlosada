@@ -8,4 +8,4 @@
 	<br/><br/>
 	<br/>
 </p>
-<p align="center" width="50"><img src="https://i.imgur.com/Vi9yRJL.png"/></p>
+<p align="center" width="25"><img src="https://i.imgur.com/Vi9yRJL.png"/></p>
