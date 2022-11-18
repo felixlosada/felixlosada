@@ -5,7 +5,6 @@
 	<br/>
 	<img alt="Wakatime" src="https://github-readme-stats.vercel.app/api/wakatime?username=felixlosada&layout=compact&custom_title=My%20Week&hide_border=true&theme=dark"/>
 	</a>
-	<br/><br/>
-	<br/>
 </p>
-<p align="center" width="25"><img src="https://i.imgur.com/Vi9yRJL.png"/></p>
+<p align="center"><img src="https://i.imgur.com/Vi9yRJL.png" width="50"/></p>
+<br/>
