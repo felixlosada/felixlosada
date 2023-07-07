@@ -6,15 +6,11 @@
             Hi, how's it going
         </span>
         <br/>
-        <span style="font-family: 'Montserrat', sans-serif">
-            ps: while your at it, check out my website
-        </span>
    	</p>
 <p align="center">	
 	<img alt="Wakatime" src="https://github-readme-stats.vercel.app/api/wakatime?username=felixlosada&layout=compact&custom_title=My%20Week&hide_border=true&theme=dark"/>
 	</a>
 	<a href="https://wakatime.com/@FelixKLG" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=felixlosada&custom_title=Coding%20Stats%20(All%20Time)&layout=compact&theme=dark&langs_count=18&hide=Other,%20.env%20file,%20Text,%20Gitignore%20file" />
 	</a>
 </p>
 <p align="center"><img src="https://i.imgur.com/Vi9yRJL.png" width="50"/></p>
