@@ -13,13 +13,11 @@
 	<a href="https://wakatime.com/@FelixKLG" target="_blank">
 	</a>
 </p>
-<p align="center"><img src="https://i.imgur.com/Vi9yRJL.png" width="50"/></p>
     <p>
         <span style="font-family: 'Montserrat', sans-serif; font-weight: 100;">
             So call me maybe
         </span>
     </p>
-    <img src="https://img.shields.io/static/v1?label=&message=felixlott%230001&color=2d2f33&logo=Discord"/>
     <a href="mailto:flosada@flot.dev">
         <img src="https://img.shields.io/static/v1?label=&message=flosada%40flot.dev&color=2d2f33&logo=Microsoft Outlook"/>
     </a>
