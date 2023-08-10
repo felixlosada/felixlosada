@@ -13,7 +13,7 @@
 	<a href="https://wakatime.com/@FelixKLG" target="_blank">
 	</a>
 </p>
-    <a href="mailto:flosada@flot.dev">
+    <a href="mailto:felixlosada@outlook.com">
         <img src="https://img.shields.io/static/v1?label=&message=flosada%40flot.dev&color=2d2f33&logo=Microsoft Outlook"/>
     </a>
 <br/>
