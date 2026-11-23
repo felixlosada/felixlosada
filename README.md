@@ -1,3 +1,1 @@
-<div align="center">
-	<img alt="garlic bread" src="garlic-bread.jpg"/>
-</div>
+Welcome to my GitHub
